@@ -1,2 +1,22 @@
 # CookBook-React
-CookBook-React is a modern recipe app built with React, allowing users to browse, save, and share delicious recipes. It features a user-friendly interface, customizable meal plans, and easy recipe search functionalities.
+
+CookBook-React is a modern recipe app built with React that lets users discover, save, and share their favorite recipes. Whether you're looking for a new dish to try or need a simple way to organize your meals, CookBook-React is your go-to digital cookbook.
+
+## Features
+
+- **Recipe Search**: Easily search for recipes based on ingredients, cuisine, or meal type.
+- **Save Favorite Recipes**: Save recipes to your personal collection for easy access.
+- **Meal Planning**: Plan your meals for the week with a simple and intuitive interface.
+- **Recipe Sharing**: Share your favorite recipes with friends or on social media.
+- **Responsive Design**: The app is designed to be fully responsive, working across desktop and mobile devices.
+
+## Demo
+
+Check out the live demo here: 
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **React Router**: For handling page navigation.
+- **Styled Components**: For styling the application.
+- **LocalStorage**: For saving favorite recipes locally.
