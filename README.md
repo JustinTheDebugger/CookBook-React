@@ -18,5 +18,5 @@ Check out the live demo here:
 
 - **React**: For building the user interface.
 - **React Router**: For handling page navigation.
-- **Styled Components**: For styling the application.
+- **Styled Components, scss**: For styling the application.
 - **LocalStorage**: For saving favorite recipes locally.
