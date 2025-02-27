@@ -5,7 +5,7 @@ CookBook-React is a modern recipe app built with React that lets users discover,
 ## Features
 
 - **Recipe Search**: Easily search for recipes based on ingredients, cuisine, or meal type.
-- **Create Favorite Recipes**: Create receipes.
+- **Create Favorite Recipes**: Add new receipes.
 - **Responsive Design**: The app is designed to be fully responsive, working across desktop and mobile devices.
 
 ## Demo
